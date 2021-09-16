@@ -1,0 +1,40 @@
+{
+    "setups": [
+        {
+            "name": "Base",
+            "mods": [
+                "ConfigMachine.dll"
+            ]
+        },
+        {
+            "name": "CarnivoreHunter",
+            "mods": [
+                "Carnivore.dll",
+                "ConfigMachine.dll",
+                "HunterSpawn.dll"
+            ]
+        },
+        {
+            "name": "JollyCoop",
+            "mods": [
+                "ConfigMachine.dll",
+                "DecalsFix.dll",
+                "JollyCoop.dll"
+            ]
+        },
+        {
+            "name": "Monkland",
+            "mods": [
+                "AutoUpdate.dll",
+                "ConfigMachine.dll",
+                "CustomRegions.dll",
+                "EnumExtender.dll",
+                "ExtendedDevtoolsFixed.dll",
+                "FixedChecksumFix.dll",
+                "KeepThatAwayFromMe.dll",
+                "Monkland.dll",
+                "Warp.dll"
+            ]
+        }
+    ]
+}
